@@ -10,8 +10,12 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Kotlin**
-- 👨‍💻 All of my projects are available at [My GitHub Repository](https://github.com/kaustubhsuryakantdeshpande)
+## About Me
+As a second-year engineering student with a passion for Android development, I thrive on creating innovative solutions that enhance user experiences. My journey in tech began with a startup focused on customizable ERP solutions for universities, where I honed my skills in Kotlin and Jetpack Compose. This experience not only deepened my technical expertise but also ignited my interest in solving real-world problems through technology.
+
+Currently, I am expanding my knowledge in this domain, which has sharpened my problem-solving abilities and taught me the importance of efficient, clean code. My proficiency with GitHub for version control ensures that my projects are well-organized and collaborative.
+
+I am always eager to learn and take on new challenges, whether it's debugging an issue in Android Studio or exploring the latest trends in mobile development. My goal is to leverage my skills and experiences to contribute to impactful projects and continue growing as a developer.
 
 <h3 align="left">🫱🏼‍🫲🏼 Connect with me:</h3>
 <p align="left">

@@ -17,27 +17,35 @@ Currently, I am expanding my knowledge in this domain, which has sharpened my pr
 
 I am always eager to learn and take on new challenges, whether it's debugging an issue in Android Studio or exploring the latest trends in mobile development. My goal is to leverage my skills and experiences to contribute to impactful projects and continue growing as a developer.
 
-<h3 align="left">🫱🏼‍🫲🏼 Connect with me:</h3>
+## Connect with Me
+Feel free to reach out if you'd like to collaborate on projects, discuss tech, or just have a chat! You can find me on:
+
 <p align="left">
-  <a href="https://linkedin.com/in/kaustubhsuryakantdeshpande" target="blank">
+  <a href="https://linkedin.com/in/kaustubhsuryakantdeshpande" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40" />
-  </a>
-</p>
+## Languages and Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+</div>
 
+</br>
+</br>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustubhsuryakantdeshpande&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhsuryakantdeshpande&" alt="GitHub Streak Stats" />
 </p>

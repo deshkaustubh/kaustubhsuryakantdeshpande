@@ -2,11 +2,11 @@
 <h3 align="center">💻 Android Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaustubhsuryakantdeshpande&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=deshkaustubh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kaustubhsuryakantdeshpande" alt="GitHub Profile Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=deshkaustubh" alt="GitHub Profile Trophies" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@ I am always eager to learn and take on new challenges, whether it's debugging an
 Feel free to reach out if you'd like to collaborate on projects, discuss tech, or just have a chat! You can find me on:
 
 <p align="left">
-  <a href="https://linkedin.com/in/kaustubhsuryakantdeshpande" target="_blank">
+  <a href="https://linkedin.com/in/deshkaustubh" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
@@ -46,6 +46,6 @@ Feel free to reach out if you'd like to collaborate on projects, discuss tech, o
 </br>
 </br>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustubhsuryakantdeshpande&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhsuryakantdeshpande&" alt="GitHub Streak Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deshkaustubh&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deshkaustubh&" alt="GitHub Streak Stats" />
 </p>

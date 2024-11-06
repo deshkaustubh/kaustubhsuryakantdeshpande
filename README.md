@@ -10,13 +10,16 @@
   </a>
 </p>
 
+</br>
+
 ## About Me
 As a second-year engineering student with a passion for Android development, I thrive on creating innovative solutions that enhance user experiences. My journey in tech began with a startup focused on customizable ERP solutions for universities, where I honed my skills in Kotlin and Jetpack Compose. This experience not only deepened my technical expertise but also ignited my interest in solving real-world problems through technology.
 
 Currently, I am expanding my knowledge in this domain, which has sharpened my problem-solving abilities and taught me the importance of efficient, clean code. My proficiency with GitHub for version control ensures that my projects are well-organized and collaborative.
 
 I am always eager to learn and take on new challenges, whether it's debugging an issue in Android Studio or exploring the latest trends in mobile development. My goal is to leverage my skills and experiences to contribute to impactful projects and continue growing as a developer.
-
+</br>
+</br>
 ## Connect with Me
 Feel free to reach out if you'd like to collaborate on projects, discuss tech, or just have a chat! You can find me on:
 
@@ -25,6 +28,8 @@ Feel free to reach out if you'd like to collaborate on projects, discuss tech, o
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+
+</br>
 
 ## Languages and Tools
 <div align="left">
@@ -46,6 +51,7 @@ Feel free to reach out if you'd like to collaborate on projects, discuss tech, o
 </br>
 </br>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deshkaustubh&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deshkaustubh&" alt="GitHub Streak Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deshkaustubh&show_icons=true&locale=en" alt="GitHub Stats" style="display: inline-block; margin: 10px;" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deshkaustubh&" alt="GitHub Streak Stats" style="display: inline-block; margin: 10px;" />
 </p>
+

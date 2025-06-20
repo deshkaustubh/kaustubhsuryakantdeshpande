@@ -125,4 +125,4 @@ I believe in writing clean, maintainable code and creating experiences that *fee
 
 ---
 
-<p align="center"><i>If you’ve read this far, you're my kind of person. Let’s build something wild.</i></p>
+<p align="center"><sub><b>“Behind every intuitive UI is a decision you didn’t notice—but felt. That’s the art.”</b><br>— Kaustubh Deshpande</sub></p>

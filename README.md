@@ -53,7 +53,6 @@ I believe in writing clean, maintainable code and creating experiences that *fee
 
 ---
 
-
 <details>
   <summary>🎛️ Unlock Secret Mode</summary>
 
@@ -68,6 +67,20 @@ I believe in writing clean, maintainable code and creating experiences that *fee
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🌙-Activate_Dark_Mode-grey?style=for-the-badge" />
+</p>
+
+<details>
+  <summary>🌘 Feels different now, doesn’t it?</summary>
+
+  Not a real toggle...  
+  Just wanted to see how many people click this ☕  
+  Still—dark mode fans, we understand each other.
+</details>
+
+---
+
 ## 📬 Connect with Me
 
 <p align="left">
@@ -77,29 +90,4 @@ I believe in writing clean, maintainable code and creating experiences that *fee
   <a href="https://linkedin.com/in/deshkaustubh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/desh_kaustubh" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="https://instagram.com/deshkaustubh" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://bsky.app/profile/kaustubhdeshpande.bsky.social" target="_blank">
-    <img src="https://img.shields.io/badge/Bluesky-0A75FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
-  </a>
-  <a href="https://linktr.ee/kaustubhdeshpande" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree" />
-  </a>
-  <a href="https://g.dev/deshkaustubh" target="_blank">
-    <img src="https://img.shields.io/badge/g.dev-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="g.dev" />
-  </a>
-  <a href="https://discord.com/users/deshkaustubh" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:contact.deshkaustubh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-<p align="center"><i>If you’ve read this far, you're my kind of person. Let’s build something wild.</i></p>
+  <a href="https://x.com/desh_kaustubh" target="_blank

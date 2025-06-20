@@ -3,45 +3,45 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deshkaustubh&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Recruiter_Mode_ON-green?style=for-the-badge" />
+  <br>
+  <img src="https://img.shields.io/badge/-Recruiter_Mode_ON-green?style=for-the-badge" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a third-year engineering student who builds Android apps with purpose and personality. I specialize in clean architecture and sleek UI design—and love writing code that feels like a conversation with the user.
+I'm a Third-Year engineering student specializing in Android development that’s efficient, thoughtful, and crafted with intention. My mission? Bridging aesthetic UI with rock-solid architecture.
 
-**Currently exploring:**
-- Dependency Injection with Hilt and Dagger  
-- REST API & Firebase integration  
-- Scalable architecture with MVVM  
-- Jetpack Compose for expressive UI  
-
-I believe great software isn’t just usable—it’s memorable.
+I believe in writing clean, maintainable code and creating experiences that *feel* good to use. Whether it’s scaling an app from scratch, mapping out intuitive user journeys, or experimenting with fresh design patterns—I'm all in.
 
 ---
 
-## ⚙️ Tech Stack
+## 🔁 Currently Playing
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Now+playing%3A+Jetpack+Compose;Now+playing%3A+MVVM+%2B+DI;Now+playing%3A+REST+APIs+%2B+Firebase;Now+playing%3A+Material+UI+Patterns" alt="Now Playing" />
+</p>
+
+---
+
+## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" />
 </div>
 
 ---
 
-## 🚧 What I'm Working On
+## 🎯 What I'm Working On
 
 | Area                 | Description                                           |
 |----------------------|-------------------------------------------------------|
@@ -53,16 +53,17 @@ I believe great software isn’t just usable—it’s memorable.
 
 ---
 
+
 <details>
-  <summary>🕵️‍♂️ A little curiosity never hurt...</summary>
-  
-  👋 Hey recruiter or future teammate!
+  <summary>🎛️ Unlock Secret Mode</summary>
 
-  You found the secret section.  
-  That already makes you more interesting than most.
+  ✅ **Access granted**
 
-  💌 Let’s connect: **contact.deshkaustubh@gmail.com**  
-  💡 Or just explore some of my builds—many of them hide details like this 😉
+  You’ve got sharp instincts. Most people don’t even open collapsibles.
+
+  → Let’s build something surprising.  
+  💌 contact.deshkaustubh@gmail.com  
+  🛠️ Or just explore—I hide stories in my codebase.
 </details>
 
 ---
@@ -101,4 +102,4 @@ I believe great software isn’t just usable—it’s memorable.
 
 ---
 
-<p align="center"><i>Let’s connect and build something meaningful.</i></p>
+<p align="center"><i>If you’ve read this far, you're my kind of person. Let’s build something wild.</i></p>
